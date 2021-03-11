@@ -7,4 +7,5 @@ Launch the game, and login. In bottom left of Character Select, click "Addons" a
 
 ## Credits
 Original addon by bitbiter & DJScias - https://www.curseforge.com/wow/addons/easy-copy
-Updated for 7.2.5+ (TOC for 8.3)
+
+Updated by me for 7.2.5+ (TOC for 8.3)
