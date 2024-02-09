@@ -222,14 +222,14 @@
 	<Frame name="$parentMWheelOverlay" parent="ChatFrame6" inherits="EasyCopy_MWheelOverlay" />
 	<Frame name="$parentMWheelOverlay" parent="ChatFrame7" inherits="EasyCopy_MWheelOverlay" />
 	
-	<FontString name="EasyCopyOptions_TitleTemplate" inherits="MasterFont" font="Fonts\FRIZQT__.TTF" virtual="true">
+	<FontString name="EasyCopyOptions_TitleTemplate" font="Fonts\FRIZQT__.TTF" virtual="true">
 		<FontHeight>
 			<AbsValue val="14"/>
 		</FontHeight>
 		<Color r="1.0" g="0.82" b="0"/>
 	</FontString>
 	
-	<FontString name="EasyCopyOptions_FrameTextTemplate" inherits="MasterFont" font="Fonts\FRIZQT__.TTF" virtual="true">
+	<FontString name="EasyCopyOptions_FrameTextTemplate" font="Fonts\FRIZQT__.TTF" virtual="true">
 		<FontHeight>
 			<AbsValue val="10"/>
 		</FontHeight>
